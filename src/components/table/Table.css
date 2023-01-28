@@ -1,0 +1,13 @@
+.checking-table {
+  border: 2px solid black;
+  display: table;
+  width: 100vw;
+}
+
+.header {
+  border-bottom: 2px solid black;
+}
+
+.header th {
+  text-decoration: underline;
+}
